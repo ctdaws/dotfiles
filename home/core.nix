@@ -10,5 +10,6 @@
     # zsh-syntax-highlighting
     difftastic
     ripgrep
+    uv
   ];
 }

@@ -17,3 +17,10 @@
 - remove/replace gitconfig 
 - remove/replace zsh and p10k
 - integrate with direnv
+
+- fix all build warnings
+- split config into sections (e.g. work specific, programming, general etc)
+- fix three finger drag being reset on reload
+- add section for future phd stuff
+- consider sioyek config for keybinds
+- update zellij to not have startup tips

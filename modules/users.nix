@@ -5,6 +5,7 @@
 
   programs.fish.enable = true;
 
+  system.primaryUser = username;
   users.knownUsers = [ "${username}" ];
   users.users.${username} = {
     home = "/Users/${username}";

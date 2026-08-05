@@ -120,3 +120,7 @@ source $ZSH/oh-my-zsh.sh
 # source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 eval "$(zoxide init --cmd cd zsh)"
+
+
+# Added by Antigravity CLI installer
+export PATH="/Users/chris/.local/bin:$PATH"
